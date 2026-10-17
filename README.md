@@ -1,7 +1,9 @@
 # Bienvenue ! Je suis Jusrox 👋
 
-Étudiant à l'ENI École d'Informatique pour obtenir le titre de Concepteur Développeur d'Applications.
+Étudiant à l'ENI École d'Informatique pour obtenir le titre de Concepteur Développeur d'Applications.<br>
 À mes heures perdues je suis aussi créateur de contenu et artiste ! 
+
+Actuellement je travail sur le projet 馬レボリューション, application web à destination d'une communauté de fan !
 
 ## Contact
 Vous souhaitez me contacter ? Je suis joignable sur différentes plateformes ! 
