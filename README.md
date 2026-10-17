@@ -7,7 +7,7 @@ Actuellement je travail sur le projet 馬レボリューション, application w
 
 ## Contact
 Vous souhaitez me contacter ? Je suis joignable sur différentes plateformes ! 
-- Discord : @Jusrox
+- Discord : [@Jusrox](https://discord.com/users/263400451230269440)
 - Mail : jusrox.pro@gmail.com
 
 ## Merci d'être passé sur mon profil !
