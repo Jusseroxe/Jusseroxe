@@ -1,5 +1,14 @@
-## Bienvenue ! Je suis Jusrox 👋
+# Bienvenue ! Je suis Jusrox 👋
 
+Étudiant à l'ENI École d'Informatique pour obtenir le titre de Concepteur Développeur d'Applications.
+À mes heures perdues je suis aussi créateur de contenu et artiste ! 
+
+## Contact
+Vous souhaitez me contacter ? Je suis joignable sur différentes plateformes ! 
+- Discord : @Jusrox
+- Mail : jusrox.pro@gmail.com
+
+## Merci d'être passé sur mon profil !
 <!--
 **Jusseroxe/Jusseroxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
