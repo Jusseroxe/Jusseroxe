@@ -3,7 +3,16 @@
 Étudiant à l'ENI École d'Informatique pour obtenir le titre de Concepteur Développeur d'Applications.<br>
 À mes heures perdues je suis aussi créateur de contenu et artiste ! 
 
-Actuellement je travail sur le projet 馬レボリューション, application web à destination d'une communauté de fan !
+Actuellement je travaille sur le projet 馬レボリューション, application web à destination d'une communauté de fan !
+
+## Stack
+
+@Angular22
+HTML5 
+CSS5
+PHP
+SQL / TSQL / MySQL
+PHPMyAdmin
 
 ## Contact
 Vous souhaitez me contacter ? Je suis joignable sur différentes plateformes ! 
