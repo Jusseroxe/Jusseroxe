@@ -7,12 +7,12 @@ Actuellement je travaille sur le projet 馬レボリューション, application
 
 ## Stack
 
-@Angular22
-HTML5 
-CSS5
-PHP
-SQL / TSQL / MySQL
-PHPMyAdmin
+@Angular22 <br>
+HTML5 <br>
+CSS5<br>
+PHP<br>
+SQL / TSQL / MySQL<br>
+PHPMyAdmin<br>
 
 ## Contact
 Vous souhaitez me contacter ? Je suis joignable sur différentes plateformes ! 
