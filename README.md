@@ -3,7 +3,7 @@
 Étudiant à l'ENI École d'Informatique pour obtenir le titre de Concepteur Développeur d'Applications.<br>
 À mes heures perdues je suis aussi créateur de contenu et artiste ! 
 
-Actuellement je travaille sur le projet 馬レボリューション, application web à destination d'une communauté de fan !
+Actuellement je travaille sur le projet 馬レボリューション (UmaRevolution), application web à destination d'une communauté de fan de la licence Uma Musume : Pretty Derby !
 
 ## Stack
 
